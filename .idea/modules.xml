@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Starting/1.Starting.iml" filepath="$PROJECT_DIR$/1.Starting/1.Starting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Strings/10.Strings.iml" filepath="$PROJECT_DIR$/10.Strings/10.Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.PatternPrint/11.PatternPrint.iml" filepath="$PROJECT_DIR$/11.PatternPrint/11.PatternPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.Recursion/12.Recursion.iml" filepath="$PROJECT_DIR$/12.Recursion/12.Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.ConditionalStatement/2.ConditionalStatement.iml" filepath="$PROJECT_DIR$/2.ConditionalStatement/2.ConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.SwitchStatements/3.SwitchStatements.iml" filepath="$PROJECT_DIR$/3.SwitchStatements/3.SwitchStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Functions/4.Functions.iml" filepath="$PROJECT_DIR$/4.Functions/4.Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Arrays/5.Arrays.iml" filepath="$PROJECT_DIR$/5.Arrays/5.Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.LinearSearch/6.LinearSearch.iml" filepath="$PROJECT_DIR$/6.LinearSearch/6.LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.BinarySearch/7.BinarySearch.iml" filepath="$PROJECT_DIR$/7.BinarySearch/7.BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.BinarySearch_2/7.LinearSearch_2.iml" filepath="$PROJECT_DIR$/7.BinarySearch_2/7.LinearSearch_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.2DArrays/8.2DArrays.iml" filepath="$PROJECT_DIR$/8.2DArrays/8.2DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.Sorting/9.Sorting.iml" filepath="$PROJECT_DIR$/9.Sorting/9.Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+    </modules>
+  </component>
+</project>
