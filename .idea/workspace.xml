@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/sorting/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     "Application.Basics.executor": "Run",
     "Application.Calcuator.executor": "Run",
     "Application.Find.executor": "Debug",
+    "Application.QuickSort.executor": "Run",
     "Application.RBS.executor": "Run",
     "Application.Sorted.executor": "Run",
     "Application.Triangle.executor": "Run",
@@ -59,7 +60,7 @@
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mergeSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.raj.Basics" />
       <module name="1.Starting" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.arrays.RBS" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.sorting.QuickSort" />
       <module name="12.Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.arrays.*" />
+          <option name="PATTERN" value="com.raj.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.Calcuator" />
         <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.RBS" />
       </list>
     </recent_temporary>
   </component>
