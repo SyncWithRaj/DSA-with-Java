@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/Ascii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/PhonePad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/SubSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/strings/subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/NKnights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/allPaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12.Recursion/com/raj/strings/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/12.Recursion/com/raj/strings/Dice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,9 @@
     "Application.Calcuator.executor": "Run",
     "Application.Dice.executor": "Run",
     "Application.Find.executor": "Debug",
+    "Application.Maze.executor": "Run",
+    "Application.NKnights.executor": "Run",
+    "Application.NQueens.executor": "Run",
     "Application.Permutations.executor": "Run",
     "Application.PhonePad.executor": "Run",
     "Application.QuickSort.executor": "Run",
@@ -56,7 +58,9 @@
     "Application.Sorted.executor": "Run",
     "Application.Stream.executor": "Run",
     "Application.SubSeq.executor": "Run",
+    "Application.SudokuSolver.executor": "Run",
     "Application.Triangle.executor": "Run",
+    "Application.allPaths.executor": "Run",
     "Application.mergeSort.executor": "Run",
     "Application.subset.executor": "Run",
     "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
@@ -76,13 +80,13 @@
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dice">
-    <configuration name="Ascii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.strings.Ascii" />
+  <component name="RunManager" selected="Application.SudokuSolver">
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.Maze" />
       <module name="12.Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.strings.*" />
+          <option name="PATTERN" value="com.raj.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.strings.Dice" />
+    <configuration name="NKnights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.NKnights" />
       <module name="12.Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.strings.*" />
+          <option name="PATTERN" value="com.raj.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.strings.Permutations" />
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.NQueens" />
       <module name="12.Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.strings.*" />
+          <option name="PATTERN" value="com.raj.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhonePad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.strings.PhonePad" />
+    <configuration name="SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.SudokuSolver" />
       <module name="12.Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.strings.*" />
+          <option name="PATTERN" value="com.raj.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.strings.subset" />
+    <configuration name="allPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.allPaths" />
       <module name="12.Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.strings.*" />
+          <option name="PATTERN" value="com.raj.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dice" />
-        <item itemvalue="Application.PhonePad" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.subset" />
-        <item itemvalue="Application.Ascii" />
+        <item itemvalue="Application.SudokuSolver" />
+        <item itemvalue="Application.NKnights" />
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.allPaths" />
+        <item itemvalue="Application.Maze" />
       </list>
     </recent_temporary>
   </component>
