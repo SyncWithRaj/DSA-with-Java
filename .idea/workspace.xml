@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/NKnights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Recursion/src/com/raj/backtracking/allPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/13.OOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/access/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/access/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/access/ObjectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/access/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/introduction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/introduction/WrapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/packages/a/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/packages/b/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/packages/b/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/inheritance/BoxColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/inheritance/BoxPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/inheritance/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/ObjectPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/properties/polymorphism/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/singleton/NotSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/singleton/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/staticExample/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/staticExample/InnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/staticExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/staticExample/StaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/12.Recursion/com/raj/strings/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/12.Recursion/com/raj/strings/Dice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +73,8 @@
     "Application.Calcuator.executor": "Run",
     "Application.Dice.executor": "Run",
     "Application.Find.executor": "Debug",
+    "Application.Greeting.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Maze.executor": "Run",
     "Application.NKnights.executor": "Run",
     "Application.NQueens.executor": "Run",
@@ -56,11 +83,15 @@
     "Application.QuickSort.executor": "Run",
     "Application.RBS.executor": "Run",
     "Application.Sorted.executor": "Run",
+    "Application.StaticBlock.executor": "Run",
     "Application.Stream.executor": "Run",
+    "Application.SubClass.executor": "Run",
     "Application.SubSeq.executor": "Run",
     "Application.SudokuSolver.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.allPaths.executor": "Run",
+    "Application.com.raj.access.SubClass.executor": "Run",
+    "Application.com.raj.packages.b.Greeting.executor": "Run",
     "Application.mergeSort.executor": "Run",
     "Application.subset.executor": "Run",
     "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
@@ -72,7 +103,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Dell/Desktop/Java",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+    "settings.editor.selected.configurable": "MTTabsSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,13 +111,13 @@
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SudokuSolver">
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.Maze" />
-      <module name="12.Recursion" />
+  <component name="RunManager" selected="Application.com.raj.access.SubClass">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.staticExample.Main" />
+      <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.backtracking.*" />
+          <option name="PATTERN" value="com.raj.staticExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NKnights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.NKnights" />
-      <module name="12.Recursion" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.staticExample.StaticBlock" />
+      <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.backtracking.*" />
+          <option name="PATTERN" value="com.raj.staticExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.NQueens" />
-      <module name="12.Recursion" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.singleton.SubClass" />
+      <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.backtracking.*" />
+          <option name="PATTERN" value="com.raj.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.SudokuSolver" />
-      <module name="12.Recursion" />
+    <configuration name="com.raj.access.SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.access.SubClass" />
+      <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.backtracking.*" />
+          <option name="PATTERN" value="com.raj.access.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="allPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.backtracking.allPaths" />
-      <module name="12.Recursion" />
+    <configuration name="com.raj.packages.b.Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.packages.b.Greeting" />
+      <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.backtracking.*" />
+          <option name="PATTERN" value="com.raj.packages.b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SudokuSolver" />
-        <item itemvalue="Application.NKnights" />
-        <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.allPaths" />
-        <item itemvalue="Application.Maze" />
+        <item itemvalue="Application.com.raj.access.SubClass" />
+        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.StaticBlock" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.raj.packages.b.Greeting" />
       </list>
     </recent_temporary>
   </component>
