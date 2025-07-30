@@ -4,24 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="access, singlton cass, packages, encapsulation, abstract completed">
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/PowerEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/extendDemo/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/extendDemo/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/extendDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/extendDemo2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/extendDemo2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/extendDemo2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/nested/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/interfaces/nested/Main.java" afterDir="false" />
+    <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP">
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/abstractDemo/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/abstractDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/abstractDemo/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/abstractDemo/Parent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/abstractDemo/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/cloning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/collections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/enumExamples/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/enumExamples/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/exceptionHandling/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/exceptionHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/exceptionHandling/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/CustomGenArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/LambdaFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/WildcardExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/comparing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.OOPs/src/com/raj/generics/comparing/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SyncWithRaj&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SyncWithRaj/DSA-with-Java.git&quot;,
+    &quot;accountId&quot;: &quot;58a8f95f-7dd0-4ce1-8c09-a5bc24496920&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -56,11 +72,15 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Ascii.executor": "Run",
+    "Application.Basic.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.Calcuator.executor": "Run",
+    "Application.CustomArrayList.executor": "Run",
+    "Application.CustomGenArrayList.executor": "Run",
     "Application.Dice.executor": "Run",
     "Application.Find.executor": "Debug",
     "Application.Greeting.executor": "Run",
+    "Application.LambdaFunctions.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Maze.executor": "Run",
     "Application.NKnights.executor": "Run",
@@ -76,8 +96,13 @@
     "Application.SubSeq.executor": "Run",
     "Application.SudokuSolver.executor": "Run",
     "Application.Triangle.executor": "Run",
+    "Application.WildcardExample.executor": "Run",
     "Application.allPaths.executor": "Run",
+    "Application.com.raj.abstractDemo.Main.executor": "Run",
     "Application.com.raj.access.SubClass.executor": "Run",
+    "Application.com.raj.cloning.Main.executor": "Run",
+    "Application.com.raj.collections.Main.executor": "Run",
+    "Application.com.raj.exceptionHandling.Main.executor": "Run",
     "Application.com.raj.interfaces.Main.executor": "Run",
     "Application.com.raj.interfaces.nested.Main.executor": "Run",
     "Application.com.raj.packages.b.Greeting.executor": "Run",
@@ -100,13 +125,13 @@
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.raj.interfaces.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.interfaces.extendDemo2.Main" />
+  <component name="RunManager" selected="Application.LambdaFunctions">
+    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.generics.CustomArrayList" />
       <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.interfaces.extendDemo2.*" />
+          <option name="PATTERN" value="com.raj.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.singleton.SubClass" />
+    <configuration name="CustomGenArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.generics.CustomGenArrayList" />
       <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.singleton.*" />
+          <option name="PATTERN" value="com.raj.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,25 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.raj.access.SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.access.SubClass" />
+    <configuration name="LambdaFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.generics.LambdaFunctions" />
       <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.access.*" />
-          <option name="ENABLED" value="false" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.raj.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.interfaces.Main" />
-      <module name="13.OOPs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.raj.interfaces.*" />
+          <option name="PATTERN" value="com.raj.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +165,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.raj.interfaces.nested.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.interfaces.nested.Main" />
+    <configuration name="WildcardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.generics.WildcardExample" />
       <module name="13.OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.interfaces.nested.*" />
+          <option name="PATTERN" value="com.raj.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.raj.exceptionHandling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.exceptionHandling.Main" />
+      <module name="13.OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raj.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.raj.interfaces.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.raj.interfaces.nested.Main" />
-        <item itemvalue="Application.com.raj.access.SubClass" />
-        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.LambdaFunctions" />
+        <item itemvalue="Application.WildcardExample" />
+        <item itemvalue="Application.CustomGenArrayList" />
+        <item itemvalue="Application.CustomArrayList" />
+        <item itemvalue="Application.com.raj.exceptionHandling.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +213,15 @@
       <option name="presentableId" value="Default" />
       <updated>1750607310484</updated>
     </task>
+    <task id="LOCAL-00001" summary="interfaces completed in OOP">
+      <option name="closed" value="true" />
+      <created>1753381494801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753381494801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +249,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="access, singlton cass, packages, encapsulation, abstract completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="access, singlton cass, packages, encapsulation, abstract completed" />
+    <MESSAGE value="interfaces completed in OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces completed in OOP" />
   </component>
 </project>
