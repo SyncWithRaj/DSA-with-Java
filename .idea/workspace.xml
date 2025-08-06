@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP" />
+    <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP">
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/StackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/InBuiltExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/InBuiltExamples.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +75,7 @@
     "Application.QuickSort.executor": "Run",
     "Application.RBS.executor": "Run",
     "Application.Sorted.executor": "Run",
+    "Application.StackMain.executor": "Run",
     "Application.StaticBlock.executor": "Run",
     "Application.Stream.executor": "Run",
     "Application.SubClass.executor": "Run",
@@ -104,7 +111,7 @@
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InBuiltExamples">
+  <component name="RunManager" selected="Application.StackMain">
     <configuration name="InBuiltExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.raj.InBuiltExamples" />
       <module name="15.StackNQueues" />
@@ -157,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildcardExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.generics.WildcardExample" />
-      <module name="13.OOPs" />
+    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.StackMain" />
+      <module name="15.StackNQueues" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.generics.*" />
+          <option name="PATTERN" value="com.raj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.InBuiltExamples" />
         <item itemvalue="Application.LL" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LambdaFunctions" />
-        <item itemvalue="Application.WildcardExample" />
       </list>
     </recent_temporary>
   </component>
