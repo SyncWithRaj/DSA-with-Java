@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP">
-      <change afterPath="$PROJECT_DIR$/15.StackNQueues/15.StackNQueues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/InBuiltExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/StackException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
