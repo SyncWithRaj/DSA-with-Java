@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP">
-      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/DynamicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/questions/LargestAreaHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/questions/QuestionUsingStackRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/questions/QueueUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/questions/TwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/questions/ValidParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/InBuiltExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/InBuiltExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/DynamicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/DynamicStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/CustomStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/CustomStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/StackMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/StackMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +90,7 @@
     "Application.SubSeq.executor": "Run",
     "Application.SudokuSolver.executor": "Run",
     "Application.Triangle.executor": "Run",
+    "Application.TwoStacks.executor": "Run",
     "Application.WildcardExample.executor": "Run",
     "Application.allPaths.executor": "Run",
     "Application.com.raj.abstractDemo.Main.executor": "Run",
@@ -111,7 +120,7 @@
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackMain">
+  <component name="RunManager" selected="Application.TwoStacks">
     <configuration name="InBuiltExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.raj.InBuiltExamples" />
       <module name="15.StackNQueues" />
@@ -131,19 +140,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.raj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.generics.LambdaFunctions" />
-      <module name="13.OOPs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.raj.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.questions.TwoStacks" />
+      <module name="15.StackNQueues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raj.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoStacks" />
         <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.InBuiltExamples" />
         <item itemvalue="Application.LL" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LambdaFunctions" />
       </list>
     </recent_temporary>
   </component>
