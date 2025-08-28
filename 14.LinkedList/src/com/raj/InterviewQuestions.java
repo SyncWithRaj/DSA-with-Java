@@ -41,7 +41,7 @@ public class InterviewQuestions {
     }
 
     //Q. https://leetcode.com/problems/linked-list-cycle-ii/
-    public ListNode deleteCycle(ListNode head) {
+    public ListNode detectCycle(ListNode head) {
         int length = 0;
 
         ListNode fast = head;

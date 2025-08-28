@@ -55,7 +55,7 @@ public class CustomQueue {
 
     public void display(){
         for (int i = 0; i < end; i++) {
-            System.out.println(data[i] + " <- ");
+            System.out.print(data[i] + " <- ");
         }
         System.out.println("END");
     }
