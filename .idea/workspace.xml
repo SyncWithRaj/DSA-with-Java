@@ -5,19 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d4be0f-a829-4261-b2a9-ed6a20bdc484" name="Changes" comment="interfaces completed in OOP">
-      <change afterPath="$PROJECT_DIR$/16.Trees/16.Trees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/AVL/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/AVL/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/introduction/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/introduction/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/introduction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacToe/src/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/AdvancedQuestions/PreIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/AdvancedQuestions/VerticalTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/Questions/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/Questions/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/Questions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/Questions/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/Questions/SD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/SegmentTrees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Trees/src/com/raj/SegmentTrees/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.StringBuffer/17.StringBuffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.StringBuffer/src/com/raj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.StringBuffer/src/com/raj/RandomString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.LargeNumber/18.LargeNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.LargeNumber/src/com/raj/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.LargeNumber/src/com/raj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.FileHandling/19.FileHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.FileHandling/src/com/raj/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.FileHandling/src/com/raj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.FileHandling/src/com/raj/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.FileHandling/src/com/raj/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.Heaps/20.Heaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.Heaps/src/com/raj/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.Heaps/src/com/raj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.HashMps/21.HashMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.HashMps/src/com/raj/HashMaps/HashMapFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.HashMps/src/com/raj/HashMaps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.HashMps/src/com/raj/KarpRabin/KarpRabin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.HashMps/src/com/raj/KarpRabin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.HuffmanCoding/23.HuffmanCoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.HuffmanCoding/src/com/raj/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.HuffmanCoding/src/com/raj/HuffmanCoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.HuffmanCoding/src/com/raj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.sqrtDecomposition/24.sqrtDecomposition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.sqrtDecomposition/src/com/raj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceSorting/22.advanceSorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceSorting/src/com/raj/CountSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceSorting/src/com/raj/RadixSort/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.LinkedList/src/com/raj/InterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/14.LinkedList/src/com/raj/InterviewQuestions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/15.StackNQueues/src/com/raj/CustomQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/CustomQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/15.StackNQueues/com/raj/CustomQueue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +101,9 @@
     &quot;Application.LL.executor&quot;: &quot;Run&quot;,
     &quot;Application.LambdaFunctions.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Maze.executor&quot;: &quot;Run&quot;,
     &quot;Application.NKnights.executor&quot;: &quot;Run&quot;,
@@ -96,6 +125,9 @@
     &quot;Application.WildcardExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.allPaths.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.raj.AVL.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.raj.Questions.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.raj.RadixSort.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.raj.SegmentTrees.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.raj.abstractDemo.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.raj.access.SubClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.raj.cloning.Main.executor&quot;: &quot;Run&quot;,
@@ -122,14 +154,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\Desktop\Java\1.Starting" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.raj" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.com.raj.AVL.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.introduction.Main" />
-      <module name="16.Trees" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.Main" />
+      <module name="23.HuffmanCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.introduction.*" />
+          <option name="PATTERN" value="com.raj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.QueueMain" />
-      <module name="15.StackNQueues" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.Main" />
+      <module name="24.sqrtDecomposition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.introduction.*" />
+          <option name="PATTERN" value="com.raj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.StackMain" />
-      <module name="15.StackNQueues" />
+    <configuration name="com.raj.CountSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.CountSort.Main" />
+      <module name="22.advanceSorting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.introduction.*" />
+          <option name="PATTERN" value="com.raj.CountSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.questions.TwoStacks" />
-      <module name="15.StackNQueues" />
+    <configuration name="com.raj.HashMaps.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.HashMaps.Main" />
+      <module name="21.HashMaps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.questions.*" />
+          <option name="PATTERN" value="com.raj.HashMaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.raj.AVL.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raj.AVL.Main" />
-      <module name="16.Trees" />
+    <configuration name="com.raj.RadixSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raj.RadixSort.Main" />
+      <module name="22.advanceSorting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raj.AVL.*" />
+          <option name="PATTERN" value="com.raj.RadixSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,10 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.raj.AVL.Main" />
-        <item itemvalue="Application.QueueMain" />
-        <item itemvalue="Application.TwoStacks" />
-        <item itemvalue="Application.StackMain" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.com.raj.RadixSort.Main" />
+        <item itemvalue="Application.com.raj.CountSort.Main" />
+        <item itemvalue="Application.com.raj.HashMaps.Main" />
       </list>
     </recent_temporary>
   </component>
